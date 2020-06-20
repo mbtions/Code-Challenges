@@ -3,7 +3,7 @@ class Solution
     public int[] twoSum(int[] numbers, int target) 
     {
         int indices[];
-        indices = new int [2]; //since we have to only return 2
+        indices = new int [2]; //since we have to only return 2 indexes
          if(numbers.length < 2)
          {
              return null;
