@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Link to the challenge-2 is :
 
+=======
+Leetcode coding challenge link to Question challenge-2 :
+
+>>>>>>> a08c23581e3fb252a3b45ce3e7ecfb9342ccb963
 https://leetcode.com/problems/merge-two-sorted-lists/
